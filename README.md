@@ -1,1 +1,1 @@
-# MedCare-Vue
+# MedCare-Nuxt
